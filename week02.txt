@@ -10,3 +10,5 @@ echo
 cat
 push
 remote add origin
+
+오우 영주
